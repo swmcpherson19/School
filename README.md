@@ -1,4 +1,4 @@
-This is a sample file with random things so that I can learn GitHub
- - bullet point list
- # Headings
- committing changes is basically saving a file
+This is where I will upload samples of coding performed outside of school
+ - [SQL](/sql/index.md)
+ - [VBA](/vba/index.md)
+ - [R](/r/index.md)
